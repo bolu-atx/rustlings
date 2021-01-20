@@ -1,6 +1,32 @@
 # Rustlings Exercise
 
-With my solutions.
+This repo is updated with my solutions to various exercises in the source repo.
+
+My Progress:
+
+- [x] collections (hashmap, vec)
+- [x] clippy
+- [x] enums
+- [x] error_handling
+- [x] functions
+- [x] generics
+- [x] if
+- [x] macros
+- [x] modules
+- [x] move_semantics
+- [x] option
+- [x] primitive_types
+- [x] standard_library_types
+- [x] strings
+- [x] structs
+- [x] tests
+- [x] threads
+- [x] traits
+- [x] variables
+- [x] quizes
+- [ ] conversions
+
+------------------------
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-72-orange.svg?style=flat-square)](#contributors-)
