@@ -1,9 +1,8 @@
 # Rustlings Exercise
 
-This repo is updated with my solutions to various exercises in the source repo.
+This repo is updated with my solutions to various exercises in the source repo. Note - I do not guarantee that my solutions are the most optimal or the most idiomatic rust.
 
 My Progress:
-
 - [x] collections (hashmap, vec)
 - [x] clippy
 - [x] enums
@@ -24,7 +23,7 @@ My Progress:
 - [x] traits
 - [x] variables
 - [x] quizes
-- [ ] conversions
+- [x] conversions
 
 ------------------------
 
